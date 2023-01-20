@@ -6,7 +6,7 @@ License:
 <Start DanVa License>
 
 
-DanVa License (Copyright (c) 2022-Present Daniel Vahsholtz) - Version 1.0 - August 8th, 2022
+DanVa License (Copyright (c) 2023-Present Daniel Vahsholtz) - Version 1.1 - January 19th, 2023
 
 Preamble:
 * This license was inspired by the MIT, BOOST, BSD, FreeType, GNU, and JSON.org licenses.
@@ -71,7 +71,7 @@ Here are the things you need to replace:
 * Replace ---%requests-email-here%--- with the email addres you want people to request access to Section 2 and select either 'me' or 'us'. Example: "contact me/us at '---%requests-email-here%---'" --> "contact me at 's2requests@danielvahsholtz.com'"
 
 Here are the things you can add:
-* You can add all copyright holders to the top before "---Start DanVa License---". Example copyright holder: "Copyright (c) 2022-Present Daniel Vahsholtz"
+* You can add all copyright holders to the top before "---Start DanVa License---". Example copyright holder: "Copyright (c) 2023-Present Daniel Vahsholtz"
 
 
 
