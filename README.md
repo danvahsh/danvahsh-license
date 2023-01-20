@@ -3,27 +3,22 @@ The danvahsh license.
 
 License:
 ```
-Copyright (c) 2023-Present Daniel Vahsholtz, counterfeit-username
+<Start DanVa License>
 
-You may contact Daniel Vahsholtz at: 'daniel@danielvahsholtz.com'
 
-All rights reserved.
-
-<DanVahsh-License>
-
-DanVahsh License (Copyright (c) 2023-Present Daniel Vahsholtz) - Version 1.1 - January 19th, 2023
+DanVa License (Copyright (c) 2022-Present Daniel Vahsholtz) - Version 1.0 - August 8th, 2022
 
 Preamble:
 * This license was inspired by the MIT, BOOST, BSD, FreeType, GNU, and JSON.org licenses.
 
-* If you would like to get written permission for Section 2 of the license please contact me at 's2requests@danielvahsholtz.com' with the message subject being titled "Section 2 Permission Request for 'Project Name'" With 'Project Name' being the name of the project.
-* If you see a needed revision to this license please contact 'dvlrevisions@danielvahsholtz.com' with the message subject being titled "DanVa License 1.0 Revision Suggestion". If the suggestion is good enough your name will be in the next version.
+* If you would like to get written permission for Section 2 of the license please contact me/us at '---%requests-email-here%---' with the message subject being titled "Section 2 Permission Request for 'Project Name'" With 'Project Name' being the name of the project.
+* If you see a needed revision to this license please contact 'dvlrevisions@danielvahsholtz.com' with the message subject being titled "DanVa License 1.0 Revision Suggestion". If the suggestion is good enough your name will be in the next version. By contributing to this license through request, comment, or any other method, the contributor releases their content to the license.
 
 
 Section 1:
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to use, copy, modify, merge, publish, distribute, and/or sublicense the Software, and to permit persons to whom the Software is furnished to do so, provided that the following conditions are met:
 
-	* Programmers may incorporate any or all source code into their programs, giving proper credit within the program and program's license, while following the license herein. Publication of the code is permitted so long as proper credit is given to Daniel Vahsholtz, the copyright holders, and any other contibutors provided that it is within the terms of the license.
+	* Programmers may incorporate any or all source code into their programs, giving proper credit within the program and program's license, while following the license herein. Publication of the code is permitted so long as proper credit is given to ---%name-here%---, the copyright holders, and any other contibutors provided that it is within the terms of the license.
 
 	* By contributing to the source code of this software through request, comment, or any other method, the contributor releases their content to the license and copyright terms herein.
 
@@ -40,13 +35,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 		** Redistributions in binary form must reproduce the copyright notice, the list of conditions, and the disclaimer herein in the documentation and/or other materials provided with the distribution.
 
 Disclaimer:
-THIS SOFTWARE IS PROVIDED BY DANIEL VAHSHOLTZ, COUNTERFEIT-USERNAME, THE COPYRIGHT HOLDERS, AND ANY OTHER CONTRIBUTORS "AS IS", WITH ALL RIGHTS RESERVED, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR ANY OTHER DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY ---%name-here%---, THE COPYRIGHT HOLDERS, AND ANY OTHER CONTRIBUTORS "AS IS", WITH ALL RIGHTS RESERVED, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR ANY OTHER DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Section 2:
 Permission is hereby granted, with specific prior written permission, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense and/or sell copies of the Software, provided that the following conditions are met:
 
-	* Programmers may incorporate any or all source code into their programs, giving proper credit within the program and program's license, while following the license herein. Publication of the code is permitted so long as proper credit is given to Daniel Vahsholtz, the copyright holders, and any other contibutors provided that it is within the terms of the license.
+	* Programmers may incorporate any or all source code into their programs, giving proper credit within the program and program's license, while following the license herein. Publication of the code is permitted so long as proper credit is given to ---%name-here%---, the copyright holders, and any other contibutors provided that it is within the terms of the license.
 
 	* By contributing to the source code of this software through request, comment, or any other method, the contributor releases their content to the license and copyright terms herein.
 
@@ -63,8 +58,24 @@ Permission is hereby granted, with specific prior written permission, to any per
 		** Redistributions in binary form must reproduce the copyright notice, the list of conditions, and the disclaimer herein in the documentation and/or other materials provided with the distribution.
 
 Disclaimer:
-THIS SOFTWARE IS PROVIDED BY DANIEL VAHSHOLTZ, COUNTERFEIT-USERNAME, THE COPYRIGHT HOLDERS, AND ANY OTHER CONTRIBUTORS "AS IS", WITH ALL RIGHTS RESERVED, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR ANY OTHER DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY ---%name-here%---, THE COPYRIGHT HOLDERS, AND ANY OTHER CONTRIBUTORS "AS IS", WITH ALL RIGHTS RESERVED, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR ANY OTHER DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-<DanVahsh-License/>
+</End DanVa License>
+
+
+Notes:
+
+Here are the things you need to replace:
+* Replace ---%name-here%--- with your name, or company name. Example: "IS PROVIDED BY ---%name-here%---," --> "IS PROVIDED BY DANIEL VAHSHOLTZ,"
+* Replace ---%requests-email-here%--- with the email addres you want people to request access to Section 2 and select either 'me' or 'us'. Example: "contact me/us at '---%requests-email-here%---'" --> "contact me at 's2requests@danielvahsholtz.com'"
+
+Here are the things you can add:
+* You can add all copyright holders to the top before "---Start DanVa License---". Example copyright holder: "Copyright (c) 2022-Present Daniel Vahsholtz"
+
+
+
+After you are done with everything you need to remove everything below "</End DanVa License>" including this text. Thanks for using the DanVa License!
+
+https://github.com/danvahsh/danvahsh-license
 ```
