@@ -11,6 +11,8 @@ DanVa License (Copyright (c) 2023-Present Daniel Vahsholtz) - Version 1.1 - Janu
 Preamble:
 * This license was inspired by the MIT, BOOST, BSD, FreeType, GNU, and JSON.org licenses.
 
+* This license can be found at https://github.com/danvahsh/danvahsh-license/blob/main/LICENSE.txt
+
 * If you would like to get written permission for Section 2 of the license please contact me/us at '---%requests-email-here%---' with the message subject being titled "Section 2 Permission Request for 'Project Name'" With 'Project Name' being the name of the project.
 * If you see a needed revision to this license please contact 'dvlrevisions@danielvahsholtz.com' with the message subject being titled "DanVa License 1.0 Revision Suggestion". If the suggestion is good enough your name will be in the next version. By contributing to this license through request, comment, or any other method, the contributor releases their content to the license.
 
@@ -76,6 +78,4 @@ Here are the things you can add:
 
 
 After you are done with everything you need to remove everything below "</End DanVa License>" including this text. Thanks for using the DanVa License!
-
-https://github.com/danvahsh/danvahsh-license
 ```
