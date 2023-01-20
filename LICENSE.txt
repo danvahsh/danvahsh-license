@@ -71,3 +71,5 @@ Here are the things you can add:
 
 
 After you are done with everything you need to remove everything below "</End DanVa License>" including this text. Thanks for using the DanVa License!
+
+https://github.com/danvahsh/danvahsh-license
